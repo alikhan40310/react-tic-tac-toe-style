@@ -1,0 +1,7 @@
+.hoverEffect{background-color: royalblue;}
+.hoverEffect:hover{
+  background-color:rgba(99, 94, 94, 0.8);
+  color: black;
+  
+}
+.gutter-row{flex-wrap: nowrap;}
